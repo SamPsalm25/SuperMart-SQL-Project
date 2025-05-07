@@ -37,20 +37,20 @@ B. **Sales**
    - Analyze customer distribution by segment.
    - Calculate total orders by country.
 
-      ## Tools and Technologies
+ ## Tools and Technologies
 
-     - PostgreSQL
-     - pgAdmin
-     - SQL (Structured Query Language)
+   - PostgreSQL
+   - pgAdmin
+   - SQL (Structured Query Language)
 
-       ## How To Run The Project
-       1. Create the database tables using the 'create_tables.sql' script.
-       2. Import the datasets.('customer.csv' and 'sales.csv') into the respective tables.
-       3. Run the queries inside 'analysis_queries.sql' to generate insights.
+  ## How To Run The Project
+   1. Create the database tables using the 'create_tables.sql' script.
+   2. Import the datasets.('customer.csv' and 'sales.csv') into the respective tables.
+   3. Run the queries inside 'analysis_queries.sql' to generate insights.
       
-           ## Author
+ ## Author
 
-         **Ajibesin Samuel Ibukunoluwa**
-        [Github Profile] (https://github.com/SamPsalm25)
+ **Ajibesin Samuel Ibukunoluwa**
+       [Github Profile] (https://github.com/SamPsalm25)
           
    
